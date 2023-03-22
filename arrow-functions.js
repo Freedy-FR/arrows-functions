@@ -5,6 +5,11 @@
 
 // Vanilla JavaScript Function
 
+function addTwoNumbers(a, b){
+    //COde Block
+    return a + b;
+}
+
 // Arrow Function With Parameters
 
 // Single Line Arrow Function With Parameters
